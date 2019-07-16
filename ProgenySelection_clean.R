@@ -557,9 +557,7 @@ for( j in (1:length(traitList))){
 
 write.table(results.out,"modelStats_out.csv",sep=",", row.names = FALSE)
 
-## elm model performance dropped drastically across all phenos- dunno why
-
-## visualize these model comparisons -- Visualization.R script
+## visualize these model comparisons -- Visualization_clean.R script
 ## To create table/matrices to check for Individual performance indicators
 RsqMat.f1m<-matrix(0,nrow=10,ncol=10)
 colnames(RsqMat.f1m)<-traitList
@@ -814,4 +812,4 @@ for( j in (1:length(traitList))){
   rbind(results.out,temp.2)->results.out  
 }
 
-write.table(results.out,"modelStats_out.csv",sep=",", row.names = FALSE)
+write.table(results.out,"mf2_modelStats_out.csv",sep=",", row.names = FALSE)
