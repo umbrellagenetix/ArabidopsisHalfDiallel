@@ -1,5 +1,7 @@
 # ArabidopsisHalfDiallel
 Re-analysis of Seymour et al. 2016 data with ML methods. A case study presented in CSJ- review article.
+
+System Specifications:
 The code included was written and executed on a MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports),2.5 GHz Intel Core i7, with 16 GB 2133 MHz LPDDR3 memory, with Mojave operating system, version 10.14.4.
 
 R version 3.5.0 (2018-04-23) -- "Joy in Playing"
