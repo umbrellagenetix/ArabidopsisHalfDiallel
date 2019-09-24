@@ -1,0 +1,21 @@
+﻿Rsquared,RsquaredSD,MAE,MAESD,RMSE,RMSESD,model,trait
+0.338242024,0.06421631,na,na,na,na,h2,Leaf Total Area (LTF)
+0.479155432,0.070125074,na,na,na,na,h2,Days-to-flowering (DTF)
+0.375894148,0.066200825,na,na,na,na,h2,Rosette diameter
+0.36622916,0.066572953,na,na,na,na,h2,Rosette dry mass
+0.07630075,0.024708583,na,na,na,na,h2,Area (day 21)
+0.058238066,0.020741146,na,na,na,na,h2,Perimeter (day 21)
+0.156585652,0.04013936,na,na,na,na,h2,Area (day 29)
+0.192938114,0.046194472,na,na,na,na,h2,Perimeter (day 29)
+0.196313952,0.046587674,na,na,na,na,h2,Area growth
+0.288551743,0.058497007,na,na,na,na,h2,Perimeter growth
+0.624333524,0.038126155,na,na,na,na,H2,Leaf Total Area (LTF)
+0.783463629,0.02970839,na,na,na,na,H2,Days-to-flowering (DTF)
+0.616342795,0.041984482,na,na,na,na,H2,Rosette diameter
+0.686120166,0.03436565,na,na,na,na,H2,Rosette dry mass
+0.268651505,0.027333414,na,na,na,na,H2,Area (day 21)
+0.24915281,0.025606605,na,na,na,na,H2,Perimeter (day 21)
+0.34281765,0.035512575,na,na,na,na,H2,Area (day 29)
+0.386796052,0.038529875,na,na,na,na,H2,Perimeter (day 29)
+0.380740286,0.039184945,na,na,na,na,H2,Area growth
+0.478215141,0.04487586,na,na,na,na,H2,Perimeter growth
